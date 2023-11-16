@@ -1,9 +1,0 @@
-<html>
-	<head>
-		<title>Best Website</title>
-		<link rel="stylesheet" href="style.css">
-	</head>
-	<body>
-		<h1>Hello EveryOne</h1>
-	</body>
-</html>
